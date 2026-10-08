@@ -1,0 +1,2 @@
+# premium-bell-metal-001-bell-bronze-alloy-tin-copper-r
+Tired of inconsistent bell tone because you're guessing your tin-copper ratio or pouring temperature?  This Notion template eliminates guesswork by providing a structured log to record every batch's exact alloy composition and pour temp. Achieve repeatable, perfect bell bronze every time—no more wasted ingots or off-pitch bells.  ## What's Included
